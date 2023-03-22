@@ -1,2 +1,2 @@
 # Msc_504_Compiler
-Sem 2 Practicals & Mono project
+Sem 2 Practicals & Mini project
